@@ -1,15 +1,16 @@
 # Summary about bash commands.
  
-In the present markdown I am going to show some commands and explain about their functions.
+In the present file I am going to show some commands and explain about their functions.
 To this I will show a list of commands that you can use when you work with command lines in a program 
-as git-bash and the explanations are added as a review of what I have seen in class. So, basically this
-text function as a summary of the different commands saw in class to learn about programming and start 
-with the basic theory and practice. 
+as git-bash and the explanations about what does a command and its way to be wrote are added as a review of what I have seen in class
+during the first lessons. So, basically this text function as a summary of the different commands that I saw in class to learn about programming and start 
+working with the basic theory and practice different activities. 
 We have commands with different purpose, it means that we have some divisions depending on the things
 that you want to do. 
 
-Let us begin with the commands and their respective functions. It is neccesary to mention that are some commands with 
-variations, that is because some of them have a specific purpose.
+Let us begin with the basic commands and their respective functions. It is neccesary to mention that are some commands with 
+variations, that is because some of them have a specific purpose and come for a same command, they just have some changes 
+to do something related to the first purpose.
 
 # Commands for directories.
 
@@ -95,10 +96,12 @@ Less: is a command to read the content of a file.
 less +name
 ```
 
-We have different commands to different actions where we are working in this programs, 
-each one has its purpose and we just need to learn about what does each one. 
-basically work with commands in general is just memorize the functions and avoid forget them.
-Using commands we can do a lot of things easily and there are a lot of guides to know how use them.
+We have different commands to different needs when we are working in this kind of programs, 
+each one has its main purpose and we just need to learn about what does each one and the way to write it. 
+Basically, work with commands generally is just memorize the functions, how write each one and avoid forget them because 
+we can make the error of use wrong the commands and then we will be confused.
+We can do a lot of things with commands easily and there are a lot of guides to know how use them.
 This first weeks we saw this princpal commands to start working and learn what we can do.
 
 -This summary was created by Jesús Casas 2009024.  
+-This file was modified by Jesús Casas to fix some gramatical errors and improve the text. 
