@@ -4,7 +4,7 @@ int main()
   
 {
   
-  printf("H   H EEEEE L     L      OOO \n ");
+  printf("H   H EEEEE L     L      OOO\n");
 
   printf("H   H E     L     L     O   O\n");
 
