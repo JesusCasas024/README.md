@@ -17,6 +17,9 @@ int main()
   printf("a=8");
   scanf("%f",a);
   
+  printf("%d\n",w);
+  printf("%d\n",name);
+  printf("%f\n",a);
   
 return 0;
   
