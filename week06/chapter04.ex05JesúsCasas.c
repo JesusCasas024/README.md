@@ -9,17 +9,17 @@ int main()
   int a;
   
   printf("w=5.7");
-  scanf("%d",w);
+  scanf("%d",&w);
   
   printf("name=jesús");
-    scanf("%d",name);
+    scanf("%d",&name);
   
   printf("a=8");
-  scanf("%f",a);
+  scanf("%f",&a);
   
-  printf("%d\n",w);
-  printf("%d\n",name);
-  printf("%f\n",a);
+  printf("%d\n",&w);
+  printf("%d\n",&name);
+  printf("%f\n",&a);
   
 return 0;
   
