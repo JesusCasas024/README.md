@@ -24,9 +24,7 @@ fgets(line,sizeof(line), stdin);
 sscanf(line, "%f", &r);
 
 
-if ( h <= work_hours )
-
-{
+if ( h <= work_hours ) {
 
 regular = h * r;
 
@@ -34,16 +32,13 @@ ot = 0.0;
 
 }
 
-else
-
-{
+else {
 
 regular = work_hours * r;
 
 overtime= (h - work_hours)* r* ot;
 
 }
-
 
 
 p= regular + overtime;
