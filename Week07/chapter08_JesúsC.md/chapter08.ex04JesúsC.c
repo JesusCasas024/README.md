@@ -5,7 +5,7 @@ print its mutiplication table to make easier obtain it*/
 
 /*Design*/
 printf("Enter a number to search its table"); fgets(line,sizeof(line),stdin);
-sscanf(line, "&d", &n); For loop and print the results.*/
+sscanf(line, "&d", &n); /*For loop and print the results.*/
 
 
 
