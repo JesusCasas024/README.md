@@ -20,7 +20,7 @@ int main()
   for(x=0;x<y;++x)
    {
      
-     sum =sum +ns;
+   sum =sum +ns;
    }
 
   Av = sum/y;
