@@ -6,7 +6,7 @@
   
   h=0
 
-  for (x= 0; x < sizeof(characters); ++x) {
+  for (x= 0; x < sizeof(characters); ++x) { /*loop for to adding up the values of the array*/
 	h += characters[x];
 	}
 
