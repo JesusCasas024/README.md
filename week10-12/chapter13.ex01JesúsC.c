@@ -20,17 +20,17 @@ printf("array[%d] = %d\n", x, array[x]);
 }
 
 *pointer = &array[0];
-
+/*the new array with the elements setting to zero*/
 for (x = 0; x < limit_N; ++x) {
-	*pointer = 0;
-	++*pointer;
-	}
+*pointer = 0;
+++*pointer;
+}
 
 	
-	printf("----------------\n");
-	for (x = 0; x < limit_N; ++x) {
+printf("             \n"); /*Our final array*/
+for (x = 0; x < limit_N; ++x) {
 		printf("array[%d] = %d\n", x, array[x]);
-	}
+}
 
   return(0);
 }
